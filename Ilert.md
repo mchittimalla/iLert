@@ -1,11 +1,10 @@
-Hello, I am demonstrating about iLert tool and its features 
-ILert is a tool for alerting, on-call management and uptime monitoring. It integrates monitoring systems as alert sources in iLert
-It helps teams to reduce response times to critical incidents. It sends prioritized alerts to stake holder and make sure that stakeholder never miss critical incidents.
+Hello, I am Manoj, ILert product specialist, I am giving demo about iLert tool and its features 
 
- by extending monitoring tools with reliable alerting, automatic escalations, on-call schedules and other features to support the incident response process, 
-It send prioritized alerts to stakeholders and create tickets in external incident management tools.
+ILert is an on-call management tool. It integrates monitoring systems as alert sources in iLert
+It helps teams to reduce response times to critical incidents. It sends prioritized alerts to stake holder and make sure that stakeholder never miss critical incidents. and create tickets in external incident management tools.
 The Core features of iLert, which helps us in day to day activities are
-1.	iLert user – onboarding the iLert user
+
+#1.	iLert user – onboarding the iLert user
 The user who want to use iLert must raise a user onboarding service request, and iLert admins will add the user in Azure Ad and will update the status to user in comments section of service request and user has to go to iLert and should login through SSO.
 
 2.	iLert team – onboarding the iLert team 
